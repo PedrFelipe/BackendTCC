@@ -2,7 +2,7 @@
   "usuarios": [
     {
       "id": 1,
-      "usu_nome": "Jerrold Jursch",
+      "usu_nome": "Jerrold Jurscha  sdasd",
       "usu_email": "jerrold.jursch@uol.com.br",
       "usu_nivel": "admin",
       "usu_senha": "u1234",
@@ -53,208 +53,22 @@
       "created_at": "2022-11-03T09:24:03.995Z",
       "updated_at": "",
       "id": 4
-    }
-  ],
-  "projetos": [
-    {
-      "id": 1,
-      "pro_titulo": "Konklux",
-      "pro_inicio": "2021-02-15T05:49:26Z",
-      "created_at": "2021-02-03T19:08:56Z",
-      "updated_at": "2021-03-03T18:17:21Z"
     },
     {
-      "id": 2,
-      "pro_titulo": "Alpha",
-      "pro_inicio": "2021-02-20T16:02:42Z",
-      "created_at": "2021-02-15T05:24:10Z",
-      "updated_at": null
-    },
-    {
-      "id": 3,
-      "pro_titulo": "Overhold",
-      "pro_inicio": "2021-02-23T14:07:40Z",
-      "created_at": "2021-02-06T00:25:28Z",
-      "updated_at": "2021-03-31T10:23:17Z"
-    },
-    {
-      "id": 4,
-      "pro_titulo": "Tres-Zap",
-      "pro_inicio": "2021-02-13T12:11:24Z",
-      "created_at": "2021-02-24T23:23:52Z",
-      "updated_at": "2021-02-27T12:39:40Z"
-    },
-    {
-      "id": 5,
-      "pro_titulo": "Biodex",
-      "pro_inicio": "2021-02-25T12:17:20Z",
-      "created_at": "2021-02-14T04:59:34Z",
-      "updated_at": "2021-02-18T21:52:44Z"
-    },
-    {
-      "id": 6,
-      "pro_titulo": "Domainer",
-      "pro_inicio": "2021-02-16T03:06:16Z",
-      "created_at": "2021-02-25T04:48:38Z",
-      "updated_at": null
-    },
-    {
-      "id": 7,
-      "pro_titulo": "Biodex",
-      "pro_inicio": "2021-02-25T21:05:07Z",
-      "created_at": "2021-02-14T00:13:01Z",
-      "updated_at": "2021-02-18T11:34:31Z"
-    },
-    {
-      "id": 8,
-      "pro_titulo": "Cookley",
-      "pro_inicio": "2021-02-20T12:08:33Z",
-      "created_at": "2021-02-07T22:56:49Z",
-      "updated_at": "2021-03-21T16:18:44Z"
-    },
-    {
-      "id": 9,
-      "pro_titulo": "Quo Lux",
-      "pro_inicio": "2021-02-15T11:57:23Z",
-      "created_at": "2021-02-03T17:12:07Z",
-      "updated_at": "2021-03-24T00:54:44Z"
-    },
-    {
-      "id": 10,
-      "pro_titulo": "Domainer",
-      "pro_inicio": "2021-02-11T08:26:34Z",
-      "created_at": "2021-02-06T01:22:47Z",
-      "updated_at": "2021-02-13T23:28:11Z"
-    }
-  ],
-  "usuariosprojetos": [
-    {
-      "id": 1,
-      "usuario_id": 1,
-      "projeto_id": 1,
-      "created_at": "2021-02-02T01:31:54Z",
-      "updated_at": null
-    },
-    {
-      "id": 2,
-      "usuario_id": 2,
-      "projeto_id": 2,
-      "created_at": "2021-02-25T21:57:18Z",
-      "updated_at": "2021-04-11T22:46:38Z"
-    },
-    {
-      "id": 3,
-      "usuario_id": 3,
-      "projeto_id": 3,
-      "created_at": "2021-02-11T17:55:53Z",
-      "updated_at": "2021-03-01T13:17:23Z"
-    }
-  ],
-  "acompanhamentos": [
-    {
-      "id": 1,
-      "aco_descricao": "enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id",
-      "projeto_id": 5,
-      "created_at": "2021-04-02T10:57:32Z",
-      "updated_at": null
-    },
-    {
-      "id": 2,
-      "aco_descricao": "justo morbi ut odio cras mi pede malesuada in imperdiet",
-      "projeto_id": 9,
-      "created_at": "2021-03-30T04:27:24Z",
-      "updated_at": null
-    },
-    {
-      "id": 3,
-      "aco_descricao": "est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac",
-      "projeto_id": 2,
-      "created_at": "2021-03-17T01:14:25Z",
-      "updated_at": "2021-04-05T05:43:04Z"
-    },
-    {
-      "id": 4,
-      "aco_descricao": "id mauris vulputate elementum nullam varius nulla facilisi cras non",
-      "projeto_id": 6,
-      "created_at": "2021-03-15T01:26:24Z",
-      "updated_at": "2021-04-02T19:42:04Z"
-    },
-    {
-      "id": 5,
-      "aco_descricao": "vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula",
-      "projeto_id": 4,
-      "created_at": "2021-03-24T10:28:58Z",
-      "updated_at": null
-    },
-    {
-      "id": 6,
-      "aco_descricao": "ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in",
-      "projeto_id": 2,
-      "created_at": "2021-03-30T16:52:40Z",
-      "updated_at": null
-    },
-    {
-      "id": 7,
-      "aco_descricao": "vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra",
-      "projeto_id": 3,
-      "created_at": "2021-03-02T14:50:37Z",
-      "updated_at": "2021-04-06T21:38:44Z"
-    },
-    {
-      "id": 8,
-      "aco_descricao": "sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam",
-      "projeto_id": 8,
-      "created_at": "2021-03-24T09:53:17Z",
-      "updated_at": null
-    },
-    {
-      "id": 9,
-      "aco_descricao": "in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis",
-      "projeto_id": 3,
-      "created_at": "2021-03-11T22:53:39Z",
-      "updated_at": null
-    },
-    {
-      "id": 10,
-      "aco_descricao": "pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet",
-      "projeto_id": 8,
-      "created_at": "2021-04-15T07:51:43Z",
-      "updated_at": null
-    },
-    {
-      "id": 11,
-      "aco_descricao": "justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim",
-      "projeto_id": 3,
-      "created_at": "2021-03-28T05:40:18Z",
-      "updated_at": null
-    },
-    {
-      "id": 12,
-      "aco_descricao": "eu est congue elementum in hac habitasse platea dictumst morbi vestibulum",
-      "projeto_id": 4,
-      "created_at": "2021-03-30T06:20:01Z",
-      "updated_at": "2021-04-11T18:57:39Z"
-    },
-    {
-      "id": 13,
-      "aco_descricao": "praesent blandit nam nulla integer pede justo lacinia eget tincidunt",
-      "projeto_id": 6,
-      "created_at": "2021-03-26T16:39:13Z",
-      "updated_at": null
-    },
-    {
-      "id": 14,
-      "aco_descricao": "augue vel accumsan tellus nisi eu orci mauris lacinia sapien",
-      "projeto_id": 10,
-      "created_at": "2021-04-01T09:00:30Z",
-      "updated_at": null
-    },
-    {
-      "id": 15,
-      "aco_descricao": "odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in",
-      "projeto_id": 2,
-      "created_at": "2021-03-21T20:54:18Z",
-      "updated_at": "2021-04-08T08:31:10Z"
-    }
+      "usu_nome": "Pedrofelipe 123123",
+      "usu_email": "germain.patty123123@google.com",
+      "usu_senha": "u1234U!",
+      "usu_nivel": "comum",
+      "usu_celular": "",
+      "usu_cpf": "",
+      "usu_foto": "",
+      "usu_chave": "UMP2WQT2wV",
+      "usu_emailconfirmado": false,
+      "usu_cadastroativo": false,
+      "created_at": "2023-11-17T12:32:26.201Z",
+      "updated_at": "",
+      "id": 5
+    } 
   ]
+
 }

@@ -28,8 +28,8 @@ routes.get("/api/db", (req, res) => {
 
 routes.use("/files", expressStatic(uploadFolder));
 
-routes.post("/auth", Usuarios.auth);
-routes.post("/signup", Usuarios.signup);
+routes.post("/api/auth", Usuarios.auth);
+routes.post("/api/signup", Usuarios.signup);
 routes.get("/activate/:chave", Usuarios.activate);
 
 routes.get("/teste", (req, res, next) => {
