@@ -4,6 +4,7 @@ const { storage, uploadFolder } = require("../config/upload");
 const multer = require("multer");
 
 const Usuarios = require("../controller/usuarios/index");
+const Aulas = require("../controller/aulas/index");
 
 const routes = new Router();
 const upload = multer({ storage });
@@ -44,5 +45,8 @@ routes.get("/teste", (req, res, next) => {
 routes.post("/api/usuarios", Usuarios.store);
 routes.patch("/api/usuarios/:id", Usuarios.update);
 routes.patch("/api/avatar/:id", upload.single("avatar"), Usuarios.uploadPhoto);
+
+routes.post("/api/aulas", Aulas.store);
+routes.patch("/api/aulas/:id", Aulas.update);
 
 module.exports = { routes };
