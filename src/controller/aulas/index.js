@@ -29,11 +29,12 @@ class Aulas {
 
     try {
       await aulaSchema.validate(req.body);
+      
     } catch (error) {
       return res.status(400).end({ error: error.message });
     }
 
-    next();
+    
   }
 
   async update(req, res, next) {
