@@ -449,22 +449,180 @@
   ],
   "aula_usuarios": [
     {
-      
+      "aul_id":1,
+      "usu_id":1
+    },
+    {
+      "aul_id":2,
+      "usu_id":2
+    },
+    {
+      "aul_id":3,
+      "usu_id":3
+    },
+    {
+      "aul_id":4,
+      "usu_id":4
+    },
+    {
+      "aul_id":5,
+      "usu_id":5
+    },
+    {
+      "aul_id":6,
+      "usu_id":6
+    },
+    {
+      "aul_id":7,
+      "usu_id":7
+    },
+    {
+      "aul_id":8,
+      "usu_id":8
+    },
+    {
+      "aul_id":9,
+      "usu_id":9
+    },
+    {
+      "aul_id":10,
+      "usu_id":10
     }
   ],
   "materias": [
     {
-      
+      "mat_id":1,
+      "mat_nome":"Língua Portuguesa",
+      "mat_cargahoraria":160,
+      "usu_id":1,
+      "cur_id":1
+    },
+    {
+      "mat_id":2,
+      "mat_nome":"Matemática",
+      "mat_cargahoraria":160,
+      "usu_id":2,
+      "cur_id":2
+    },
+    {
+      "mat_id":3,
+      "mat_nome":"Ciências",
+      "mat_cargahoraria":80,
+      "usu_id":3,
+      "cur_id":3
+    },
+    {
+      "mat_id":4,
+      "mat_nome":"História",
+      "mat_cargahoraria":80,
+      "usu_id":4,
+      "cur_id":4
+    },
+    {
+      "mat_id":5,
+      "mat_nome":"Geografia",
+      "mat_cargahoraria":80,
+      "usu_id":5,
+      "cur_id":5
+    },
+    {
+      "mat_id":6,
+      "mat_nome":"Língua Estrangeira",
+      "mat_cargahoraria":80,
+      "usu_id":6,
+      "cur_id":6
+    },
+    {
+      "mat_id":7,
+      "mat_nome":"Educação Física",
+      "mat_cargahoraria":80,
+      "usu_id":7,
+      "cur_id":7
+    },
+    {
+      "mat_id":8,
+      "mat_nome":"Filosofia",
+      "mat_cargahoraria":40,
+      "usu_id":8,
+      "cur_id":8
+    },
+    {
+      "mat_id":9,
+      "mat_nome":"Sociologia",
+      "mat_cargahoraria":40,
+      "usu_id":9,
+      "cur_id":9
+    },
+    {
+      "mat_id":10,
+      "mat_nome":"Artes",
+      "mat_cargahoraria":40,
+      "usu_id":10,
+      "cur_id":10
     }
   ],
   "cursos": [
     {
-      
+      "cur_id":1,
+      "cur_nome":"Biológicas",
+      "cur_cargahorariatotal":640
+    },
+    {
+      "cur_id":2,
+      "cur_nome":"informática",
+      "cur_cargahorariatotal":640
+    },
+    {
+      "cur_id":3,
+      "cur_nome":"Administração",
+      "cur_cargahorariatotal":640
+    },
+    {
+      "cur_id":4,
+      "cur_nome":"Agro",
+      "cur_cargahorariatotal":640
     }
   ],
   "cursos_usuarios": [
     {
-      
+      "cur_id":1,
+      "usu_id":1
+    },
+    {
+      "cur_id":2,
+      "usu_id":2
+    },
+    {
+      "cur_id":3,
+      "usu_id":3
+    },
+    {
+      "cur_id":4,
+      "usu_id":4
+    },
+    {
+      "cur_id":5,
+      "usu_id":5
+    },
+    {
+      "cur_id":6,
+      "usu_id":6
+    },
+    {
+      "cur_id":7,
+      "usu_id":7
+    },
+    {
+      "cur_id":8,
+      "usu_id":8
+    },
+    {
+      "cur_id":9,
+      "usu_id":9
+    },
+    {
+      "cur_id":10,
+      "usu_id":10
     }
   ]
 }
