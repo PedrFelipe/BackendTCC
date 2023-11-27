@@ -1,6 +1,6 @@
 const { object, string, mixed } = require("yup");
 
-class Professores {
+class Materias {
 
 
   async store(req, res, next) {
@@ -16,4 +16,4 @@ class Professores {
 
 }
 
-module.exports = new Professores();
+module.exports = new Materias();

@@ -3,10 +3,12 @@ const http = require("http");
 const { storage, uploadFolder } = require("../config/upload");
 const multer = require("multer");
 
-const Usuarios = require("../controller/usuarios/index");
-const Professores = require("../controller/professores/index");
-const Alunos = require("../controller/alunos/index");
 const Aulas = require("../controller/aulas/index");
+const AulaUsuarios = require("../controller/aula_usuarios/index");
+const Cursos = require("../controller/cursos/index");
+const CursoAlunos = require("../controller/curso_usuarios/index");
+const Materias = require("../controller/materias/index");
+const Usuarios = require("../controller/usuarios/index");
 
 const routes = new Router();
 const upload = multer({ storage });
@@ -44,17 +46,23 @@ routes.get("/teste", (req, res, next) => {
 
 // routes.use(Usuarios.ensureAuthenticated);
 
-routes.post("/api/usuarios", Usuarios.store);
-routes.patch("/api/usuarios/:id", Usuarios.update);
-routes.patch("/api/avatar/:id", upload.single("avatar"), Usuarios.uploadPhoto);
-
 routes.post("/api/aulas", Aulas.store);
 routes.patch("/api/aulas/:id", Aulas.update);
 
-routes.post("/api/professores", Professores.store);
-routes.patch("/api/professores/:id", Professores.update);
+routes.post("/api/aula_usuarios", AulaUsuarios.store);
+routes.patch("/api/aula_usuarios/:id", AulaUsuarios.update);
 
-routes.post("/api/alunos", Alunos.store);
-routes.patch("/api/alunos/:id", Alunos.update);
+routes.post("/api/cursos", Cursos.store);
+routes.patch("/api/cursos/:id", Cursos.update);
+
+routes.post("/api/curso_usuarios", CursoAlunos.store);
+routes.patch("/api/curso_usuarios/:id", CursoAlunos.update);
+
+routes.post("/api/materias", Materias.store);
+routes.patch("/api/materias/:id", Materias.update);
+
+routes.post("/api/usuario", Usuarios.store);
+routes.patch("/api/usuario/:id", Usuarios.update);
+routes.patch("/api/avatar/:id", upload.single("avatar"), Usuarios.uploadPhoto);
 
 module.exports = { routes };

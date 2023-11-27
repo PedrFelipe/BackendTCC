@@ -1,4 +1,6 @@
+const { log } = require("console");
 const { object, string, mixed } = require("yup");
+const { apiEndpoints } = require("../../api/index");
 
 class Aulas {
 
@@ -28,17 +30,28 @@ class Aulas {
     };
 
     try {
-      await aulaSchema.validate(req.body);
-      
+     await aulaSchema.validate(req.body)
+
     } catch (error) {
       return res.status(400).end({ error: error.message });
     }
 
-    
+      next();
   }
 
   async update(req, res, next) {
     req.body = { ...req.body, updated_at: new Date() };
+    next();
+  }
+
+  async index(req, res, next) {
+
+    const aula = apiEndpoints.db
+      .get("aulas")
+      .find({ id: req.body.id })
+      .cloneDeep()
+      .value();
+
     next();
   }
 

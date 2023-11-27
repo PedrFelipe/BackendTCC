@@ -83,6 +83,21 @@
       "created_at": "2023-11-17T14:59:32.282Z",
       "updated_at": "",
       "id": 6
+    },
+    {
+      "usu_nome": "Pedro Felipe",
+      "usu_email": "germain.patty13123@google.com",
+      "usu_senha": "u1234U!",
+      "usu_nivel": "comum",
+      "usu_celular": "",
+      "usu_cpf": "",
+      "usu_foto": "",
+      "usu_chave": "WHmoyDHrM7",
+      "usu_emailconfirmado": false,
+      "usu_cadastroativo": false,
+      "created_at": "2023-11-24T18:14:51.223Z",
+      "updated_at": "",
+      "id": 7
     }
   ],
   "aulas": [
@@ -193,6 +208,263 @@
       "created_at": "2023-11-24T17:24:37.238Z",
       "updated_at": "",
       "id": 12
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:03:34.405Z",
+      "updated_at": "",
+      "id": 13
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria AAAAAAAAAA",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:04:17.389Z",
+      "updated_at": "",
+      "id": 14
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria 222222",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:06:56.696Z",
+      "updated_at": "",
+      "id": 15
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria 3333333333",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:07:32.057Z",
+      "updated_at": "",
+      "id": 16
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria ABC",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:11:02.758Z",
+      "updated_at": "",
+      "id": 17
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria TESTE",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:24:42.930Z",
+      "updated_at": "",
+      "id": 18
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:29:34.772Z",
+      "updated_at": "",
+      "id": 19
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:29:35.594Z",
+      "updated_at": "",
+      "id": 20
+    },
+    {
+      "pro_nome": "fdghfghfghfgh dfhdfhfdh",
+      "com_nome": "dfhdfghhfghdfhg",
+      "hor_datahora": "fhdgfghfhgdfhdfh",
+      "alu_serie": "fhfdhgfhdfgh",
+      "created_at": "2023-11-24T19:29:50.747Z",
+      "updated_at": "",
+      "id": 21
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:31:39.554Z",
+      "updated_at": "",
+      "id": 22
+    },
+    {
+      "pro_nome": "asdfasdfasdf asdfadsf",
+      "com_nome": "adsfadfs",
+      "hor_datahora": "asdfasdf",
+      "alu_serie": "asdfasdfasd",
+      "created_at": "2023-11-24T19:32:54.062Z",
+      "updated_at": "",
+      "id": 23
+    },
+    {
+      "pro_nome": "asdfasdfasdf asdfasdfasdf",
+      "com_nome": "asdfdsfasdf",
+      "hor_datahora": "asdfasdfasdf",
+      "alu_serie": "asdfasdfadsf",
+      "created_at": "2023-11-24T19:34:13.424Z",
+      "updated_at": "",
+      "id": 24
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:41:21.883Z",
+      "updated_at": "",
+      "id": 25
+    },
+    {
+      "pro_nome": "asdfasdfasdfa asdfasdfasf",
+      "com_nome": "asdfasdfasdf",
+      "hor_datahora": "asdfasdfasdf",
+      "alu_serie": "asdfasdfasdfas",
+      "created_at": "2023-11-24T19:41:36.615Z",
+      "updated_at": "",
+      "id": 26
+    },
+    {
+      "pro_nome": "asdfasdfasdf asdfasdf",
+      "com_nome": "fasdfasdfadsf",
+      "hor_datahora": "asdfasdfasf",
+      "alu_serie": "asdfadsfads",
+      "created_at": "2023-11-24T19:41:56.592Z",
+      "updated_at": "",
+      "id": 27
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:48:51.304Z",
+      "updated_at": "",
+      "id": 28
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:48:51.943Z",
+      "updated_at": "",
+      "id": 29
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-24T19:49:35.510Z",
+      "updated_at": "",
+      "id": 30
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-25T01:01:26.782Z",
+      "updated_at": "",
+      "id": 31
+    },
+    {
+      "pro_nome": "asdasdADS ASDASD",
+      "com_nome": "asdads",
+      "hor_datahora": "asDADSas",
+      "alu_serie": "asDASD",
+      "created_at": "2023-11-25T01:03:59.344Z",
+      "updated_at": "",
+      "id": 32
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria sdadsa",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-25T01:04:13.494Z",
+      "updated_at": "",
+      "id": 33
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-25T01:04:50.168Z",
+      "updated_at": "",
+      "id": 34
+    },
+    {
+      "pro_nome": "asdfasdfasdf  asdfasdf",
+      "com_nome": "asdfadsfasdf",
+      "hor_datahora": "asdfasdf",
+      "alu_serie": "asdfasdfsadf",
+      "created_at": "2023-11-25T01:05:07.562Z",
+      "updated_at": "",
+      "id": 35
+    },
+    {
+      "pro_nome": "asdfadsfasd asdfasdf",
+      "com_nome": "sdfasdf",
+      "hor_datahora": "fasdfasdf",
+      "alu_serie": "asdasdfasdf",
+      "created_at": "2023-11-25T01:05:20.390Z",
+      "updated_at": "",
+      "id": 36
+    },
+    {
+      "pro_nome": "Professor 1hh",
+      "com_nome": "Matéria,mkjhbkjbkj",
+      "hor_datahora": "Horáriokhhhjkhjk",
+      "alu_serie": "x° INFOhjkhjkhjk",
+      "id": 37
+    },
+    {
+      "pro_nome": "dsfgfdsfgdsfg dsfg",
+      "com_nome": "dsfgdsfgdsfg",
+      "hor_datahora": "dgsdsfgdsfggdfs",
+      "alu_serie": "fdgsfdsg",
+      "id": 38
+    },
+    {
+      "pro_nome": "gsdfgsfdgfdsg dsfgdsfgdsfg",
+      "com_nome": "sdfgdsfgfds",
+      "hor_datahora": "sdfgdsfgfdsg",
+      "alu_serie": "sdfgdsfgfdsg",
+      "id": 39
     }
-  ] 
+  ],
+  "aula_usuarios": [
+    {
+      
+    }
+  ],
+  "materias": [
+    {
+      
+    }
+  ],
+  "cursos": [
+    {
+      
+    }
+  ],
+  "cursos_usuarios": [
+    {
+      
+    }
+  ]
 }
