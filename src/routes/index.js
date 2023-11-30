@@ -6,7 +6,7 @@ const multer = require("multer");
 const Aulas = require("../controller/aulas/index");
 const AulaUsuarios = require("../controller/aula_usuarios/index");
 const Cursos = require("../controller/cursos/index");
-const CursoAlunos = require("../controller/curso_usuarios/index");
+const CursoUsuarios = require("../controller/curso_usuarios/index");
 const Materias = require("../controller/materias/index");
 const Usuarios = require("../controller/usuarios/index");
 
@@ -55,8 +55,8 @@ routes.patch("/api/aula_usuarios/:id", AulaUsuarios.update);
 routes.post("/api/cursos", Cursos.store);
 routes.patch("/api/cursos/:id", Cursos.update);
 
-routes.post("/api/curso_usuarios", CursoAlunos.store);
-routes.patch("/api/curso_usuarios/:id", CursoAlunos.update);
+routes.post("/api/curso_usuarios", CursoUsuarios.store);
+routes.patch("/api/curso_usuarios/:id", CursoUsuarios.update);
 
 routes.post("/api/materias", Materias.store);
 routes.patch("/api/materias/:id", Materias.update);

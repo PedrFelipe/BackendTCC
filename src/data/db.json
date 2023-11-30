@@ -10,8 +10,8 @@
       "usu_celular": "(15)99548-5236",
       "usu_cpf": "045.387.160-57",
       "usu_cadastroativado": true,
-      "usu_created_at": "2020-09-19T14:54:35Z",
-      "usu_updated_at": "2020-11-19T19:52:07Z"
+      "created_at": "2020-09-19T14:54:35Z",
+      "updated_at": "2020-11-19T19:52:07Z"
     },
     {
       "id": 2,
@@ -23,8 +23,8 @@
       "usu_celular": "(17)97734-1618",
       "usu_cpf": "548.893.559-90",
       "usu_cadastroativado": true,
-      "usu_created_at": "2020-12-08T19:05:45Z",
-      "usu_updated_at": "2021-04-08T18:55:49Z"
+      "created_at": "2020-12-08T19:05:45Z",
+      "updated_at": "2021-04-08T18:55:49Z"
     },
     {
       "id": 3,
@@ -36,8 +36,8 @@
       "usu_celular": "(17)99254-2730",
       "usu_cpf": "040.013.862-86",
       "usu_cadastroativado": false,
-      "usu_created_at": "2020-02-24T15:13:47Z",
-      "usu_updated_at": "2021-02-11T15:38:53Z"
+      "created_at": "2020-02-24T15:13:47Z",
+      "updated_at": "2021-02-11T15:38:53Z"
     },
     {
       "usu_nome": "Fulano de Tal",
@@ -98,6 +98,12 @@
       "created_at": "2023-11-24T18:14:51.223Z",
       "updated_at": "",
       "id": 7
+    },
+    {
+      "usu_nome": "fdghdfghfdghdfgh sdfgsdfgd",
+      "usu_email": "germain.pattyff@google.com",
+      "usu_senha": "u1234U!",
+      "id": 8
     }
   ],
   "aulas": [
@@ -445,184 +451,229 @@
       "hor_datahora": "sdfgdsfgfdsg",
       "alu_serie": "sdfgdsfgfdsg",
       "id": 39
+    },
+    {
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "Horário",
+      "alu_serie": "x° INFO",
+      "created_at": "2023-11-28T12:01:50.275Z",
+      "updated_at": "",
+      "id": 40
+    },
+    {
+      "pro_nome": "sdfgsdfgsdfg sdfgsdfgsdfg",
+      "com_nome": "sdfgsdfgsdfg",
+      "hor_datahora": "sdfgsdfgsdfg",
+      "alu_serie": "sdfgsdfgsdfg",
+      "created_at": "2023-11-28T12:02:01.996Z",
+      "updated_at": "",
+      "id": 41
+    },
+    {
+      "pro_nome": "sdfgsdfgsdfg sdfgsdfgsdfg",
+      "com_nome": "sdfgsdfgsdfg",
+      "hor_datahora": "sdfgsdfgsdfg",
+      "alu_serie": "sdfgsdfgsdfg",
+      "created_at": "2023-11-28T12:02:02.194Z",
+      "updated_at": "",
+      "id": 42
+    },
+    {
+      "pro_nome": "sdfgsdfgsdfgdsf sdfg",
+      "com_nome": "dsfgsdfgsdfg",
+      "hor_datahora": "gsdfgsdfgdsfg",
+      "alu_serie": "sdfgsdfgsdfg",
+      "created_at": "2023-11-28T12:02:10.028Z",
+      "updated_at": "",
+      "id": 43
+    },
+    {
+      "pro_nome": "sdfgsdfgsdfg sdfgsdfg",
+      "com_nome": "sdfgsdfgsdfg",
+      "hor_datahora": "sdfgdsfgsdfgs",
+      "alu_serie": "dgsdfgsdfgdsfg",
+      "created_at": "2023-11-28T12:02:18.012Z",
+      "updated_at": "",
+      "id": 44
     }
   ],
   "aula_usuarios": [
     {
-      "aul_id":1,
-      "usu_id":1
+      "aul_id": 1,
+      "usu_id": 1
     },
     {
-      "aul_id":2,
-      "usu_id":2
+      "aul_id": 2,
+      "usu_id": 2
     },
     {
-      "aul_id":3,
-      "usu_id":3
+      "aul_id": 3,
+      "usu_id": 3
     },
     {
-      "aul_id":4,
-      "usu_id":4
+      "aul_id": 4,
+      "usu_id": 4
     },
     {
-      "aul_id":5,
-      "usu_id":5
+      "aul_id": 5,
+      "usu_id": 5
     },
     {
-      "aul_id":6,
-      "usu_id":6
+      "aul_id": 6,
+      "usu_id": 6
     },
     {
-      "aul_id":7,
-      "usu_id":7
+      "aul_id": 7,
+      "usu_id": 7
     },
     {
-      "aul_id":8,
-      "usu_id":8
+      "aul_id": 8,
+      "usu_id": 8
     },
     {
-      "aul_id":9,
-      "usu_id":9
+      "aul_id": 9,
+      "usu_id": 9
     },
     {
-      "aul_id":10,
-      "usu_id":10
+      "aul_id": 10,
+      "usu_id": 10
     }
   ],
   "materias": [
     {
-      "mat_id":1,
-      "mat_nome":"Língua Portuguesa",
-      "mat_cargahoraria":160,
-      "usu_id":1,
-      "cur_id":1
+      "id": 1,
+      "mat_nome": "Língua Portuguesa",
+      "mat_cargahoraria": 160,
+      "usu_id": 1,
+      "cur_id": 1
     },
     {
-      "mat_id":2,
-      "mat_nome":"Matemática",
-      "mat_cargahoraria":160,
-      "usu_id":2,
-      "cur_id":2
+      "id": 2,
+      "mat_nome": "Matemática",
+      "mat_cargahoraria": 160,
+      "usu_id": 2,
+      "cur_id": 2
     },
     {
-      "mat_id":3,
-      "mat_nome":"Ciências",
-      "mat_cargahoraria":80,
-      "usu_id":3,
-      "cur_id":3
+      "id": 3,
+      "mat_nome": "Ciências",
+      "mat_cargahoraria": 80,
+      "usu_id": 3,
+      "cur_id": 3
     },
     {
-      "mat_id":4,
-      "mat_nome":"História",
-      "mat_cargahoraria":80,
-      "usu_id":4,
-      "cur_id":4
+      "id": 4,
+      "mat_nome": "História",
+      "mat_cargahoraria": 80,
+      "usu_id": 4,
+      "cur_id": 4
     },
     {
-      "mat_id":5,
-      "mat_nome":"Geografia",
-      "mat_cargahoraria":80,
-      "usu_id":5,
-      "cur_id":5
+      "id": 5,
+      "mat_nome": "Geografia",
+      "mat_cargahoraria": 80,
+      "usu_id": 5,
+      "cur_id": 5
     },
     {
-      "mat_id":6,
-      "mat_nome":"Língua Estrangeira",
-      "mat_cargahoraria":80,
-      "usu_id":6,
-      "cur_id":6
+      "id": 6,
+      "mat_nome": "Língua Estrangeira",
+      "mat_cargahoraria": 80,
+      "usu_id": 6,
+      "cur_id": 6
     },
     {
-      "mat_id":7,
-      "mat_nome":"Educação Física",
-      "mat_cargahoraria":80,
-      "usu_id":7,
-      "cur_id":7
+      "id": 7,
+      "mat_nome": "Educação Física",
+      "mat_cargahoraria": 80,
+      "usu_id": 7,
+      "cur_id": 7
     },
     {
-      "mat_id":8,
-      "mat_nome":"Filosofia",
-      "mat_cargahoraria":40,
-      "usu_id":8,
-      "cur_id":8
+      "id": 8,
+      "mat_nome": "Filosofia",
+      "mat_cargahoraria": 40,
+      "usu_id": 8,
+      "cur_id": 8
     },
     {
-      "mat_id":9,
-      "mat_nome":"Sociologia",
-      "mat_cargahoraria":40,
-      "usu_id":9,
-      "cur_id":9
+      "id": 9,
+      "mat_nome": "Sociologia",
+      "mat_cargahoraria": 40,
+      "usu_id": 9,
+      "cur_id": 9
     },
     {
-      "mat_id":10,
-      "mat_nome":"Artes",
-      "mat_cargahoraria":40,
-      "usu_id":10,
-      "cur_id":10
+      "id": 10,
+      "mat_nome": "Artes",
+      "mat_cargahoraria": 40,
+      "usu_id": 10,
+      "cur_id": 10
     }
   ],
   "cursos": [
     {
-      "cur_id":1,
-      "cur_nome":"Biológicas",
-      "cur_cargahorariatotal":640
+      "cur_id": 1,
+      "cur_nome": "Biológicas",
+      "cur_cargahorariatotal": 640
     },
     {
-      "cur_id":2,
-      "cur_nome":"informática",
-      "cur_cargahorariatotal":640
+      "cur_id": 2,
+      "cur_nome": "informática",
+      "cur_cargahorariatotal": 640
     },
     {
-      "cur_id":3,
-      "cur_nome":"Administração",
-      "cur_cargahorariatotal":640
+      "cur_id": 3,
+      "cur_nome": "Administração",
+      "cur_cargahorariatotal": 640
     },
     {
-      "cur_id":4,
-      "cur_nome":"Agro",
-      "cur_cargahorariatotal":640
+      "cur_id": 4,
+      "cur_nome": "Agro",
+      "cur_cargahorariatotal": 640
     }
   ],
-  "cursos_usuarios": [
+  "curso_usuarios": [
     {
-      "cur_id":1,
-      "usu_id":1
+      "cur_id": 1,
+      "usu_id": 1
     },
     {
-      "cur_id":2,
-      "usu_id":2
+      "cur_id": 2,
+      "usu_id": 2
     },
     {
-      "cur_id":3,
-      "usu_id":3
+      "cur_id": 3,
+      "usu_id": 3
     },
     {
-      "cur_id":4,
-      "usu_id":4
+      "cur_id": 4,
+      "usu_id": 4
     },
     {
-      "cur_id":5,
-      "usu_id":5
+      "cur_id": 5,
+      "usu_id": 5
     },
     {
-      "cur_id":6,
-      "usu_id":6
+      "cur_id": 6,
+      "usu_id": 6
     },
     {
-      "cur_id":7,
-      "usu_id":7
+      "cur_id": 7,
+      "usu_id": 7
     },
     {
-      "cur_id":8,
-      "usu_id":8
+      "cur_id": 8,
+      "usu_id": 8
     },
     {
-      "cur_id":9,
-      "usu_id":9
+      "cur_id": 9,
+      "usu_id": 9
     },
     {
-      "cur_id":10,
-      "usu_id":10
+      "cur_id": 10,
+      "usu_id": 10
     }
   ]
 }
