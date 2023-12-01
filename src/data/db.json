@@ -5,7 +5,7 @@
       "usu_nome": "Jerrold Jurscha  sdasd",
       "usu_email": "jerrold.jursch@uol.com.br",
       "usu_nivel": "admin",
-      "usu_senha": "u1234",
+      "usu_senha": "U12345u!",
       "usu_emailconfirmado": true,
       "usu_celular": "(15)99548-5236",
       "usu_cpf": "045.387.160-57",
@@ -31,7 +31,7 @@
       "usu_nome": "Norina Dupoy",
       "usu_email": "norina.dupoy@microsoft.com",
       "usu_nivel": "admin",
-      "usu_senha": "u1234",
+      "usu_senha": "U12345u!",
       "usu_emailconfirmado": true,
       "usu_celular": "(17)99254-2730",
       "usu_cpf": "040.013.862-86",
@@ -108,436 +108,442 @@
   ],
   "aulas": [
     {
+      "usuario_id": 4,
       "pro_nome": "",
       "com_nome": "",
-      "hor_datahora": "",
+      "hor_datahora": "2023-11-02T16:35:00.000Z",
       "alu_serie": "",
+      "aul_conteudo": "Descreva sua aulinha 10:24",
+      "aul_qtdadeaulas": "4",
       "created_at": "",
       "updated_at": "",
       "id": 1
     },
     {
+      "usuario_id": 1,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-11-1T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 11:11",
+      "aul_qtdadeaulas": "4",
       "created_at": "2023-11-17T15:12:21.357Z",
       "updated_at": "",
       "id": 2
     },
     {
+      "usuario_id": 3,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-30T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 11:36",
+      "aul_qtdadeaulas": "1",
       "created_at": "2023-11-21T21:53:02.776Z",
       "updated_at": "",
       "id": 3
     },
     {
+      "usuario_id": 1,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-29T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:06",
+      "aul_qtdadeaulas": "4",
       "created_at": "2023-11-21T21:58:00.496Z",
       "updated_at": "",
       "id": 4
     },
     {
+      "usuario_id": 1,
       "pro_nome": "asdfasfasfsa asdfasdf",
       "com_nome": "asfsfsfsaf",
-      "hor_datahora": "asdfasfasdfas",
+      "hor_datahora": "2023-12-28T16:35:00.000Z",
       "alu_serie": "asfasdfasd",
+      "aul_conteudo": "Descreva sua aulinha 10:09",
+      "aul_qtdadeaulas": "4",
       "created_at": "2023-11-21T21:58:18.461Z",
       "updated_at": "",
       "id": 5
     },
     {
+      "usuario_id": 4,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-27T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:10",
+      "aul_qtdadeaulas": "4",
       "created_at": "2023-11-23T13:34:43.680Z",
       "updated_at": "",
       "id": 6
     },
     {
+      "usuario_id": 3,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-26T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:20",
+      "aul_qtdadeaulas": "3",
       "created_at": "2023-11-23T13:34:44.504Z",
       "updated_at": "",
       "id": 7
     },
     {
+      "usuario_id": 3,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-25T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:02",
+      "aul_qtdadeaulas": "3",
       "created_at": "2023-11-23T14:22:03.911Z",
       "updated_at": "",
       "id": 8
     },
     {
+      "usuario_id": 1,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-24T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:01",
+      "aul_qtdadeaulas": "2",
       "created_at": "2023-11-23T14:22:37.628Z",
       "updated_at": "",
       "id": 9
     },
     {
+      "usuario_id": 3,
       "pro_nome": "Professor 1weytrewyr",
       "com_nome": "Matériaetwyethewytr",
-      "hor_datahora": "Horárioerwyyterwewry",
+      "hor_datahora": "2023-12-23T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:00",
+      "aul_qtdadeaulas": "3",
       "created_at": "2023-11-23T14:34:37.317Z",
       "updated_at": "",
       "id": 10
     },
     {
+      "usuario_id": 4,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-22T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:43",
+      "aul_qtdadeaulas": "1",
       "created_at": "2023-11-24T14:32:01.201Z",
       "updated_at": "",
       "id": 11
     },
     {
+      "usuario_id": 3,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-21T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:58",
+      "aul_qtdadeaulas": "2",
       "created_at": "2023-11-24T17:24:37.238Z",
       "updated_at": "",
       "id": 12
     },
     {
+      "usuario_id": 4,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-20T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:36",
+      "aul_qtdadeaulas": "3",
       "created_at": "2023-11-24T19:03:34.405Z",
       "updated_at": "",
       "id": 13
     },
     {
+      "usuario_id": 4,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria AAAAAAAAAA",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-19T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:36",
+      "aul_qtdadeaulas": "2",
       "created_at": "2023-11-24T19:04:17.389Z",
       "updated_at": "",
       "id": 14
     },
     {
+      "usuario_id": 3,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria 222222",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-18T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:36",
+      "aul_qtdadeaulas": "4",
       "created_at": "2023-11-24T19:06:56.696Z",
       "updated_at": "",
       "id": 15
     },
     {
+      "usuario_id": 1,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria 3333333333",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-17T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:25",
+      "aul_qtdadeaulas": "3",
       "created_at": "2023-11-24T19:07:32.057Z",
       "updated_at": "",
       "id": 16
     },
     {
+      "usuario_id": 4,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria ABC",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-16T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:18",
+      "aul_qtdadeaulas": "4",
       "created_at": "2023-11-24T19:11:02.758Z",
       "updated_at": "",
       "id": 17
     },
     {
+      "usuario_id": 3,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria TESTE",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-15T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:17",
+      "aul_qtdadeaulas": "2",
       "created_at": "2023-11-24T19:24:42.930Z",
       "updated_at": "",
       "id": 18
     },
     {
+      "usuario_id": 1,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-14T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:33",
+      "aul_qtdadeaulas": "3",
       "created_at": "2023-11-24T19:29:34.772Z",
       "updated_at": "",
       "id": 19
     },
     {
+      "usuario_id": 3,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-13T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:59",
+      "aul_qtdadeaulas": "2",
       "created_at": "2023-11-24T19:29:35.594Z",
       "updated_at": "",
       "id": 20
     },
     {
+      "usuario_id": 4,
       "pro_nome": "fdghfghfghfgh dfhdfhfdh",
       "com_nome": "dfhdfghhfghdfhg",
-      "hor_datahora": "fhdgfghfhgdfhdfh",
+      "hor_datahora": "2023-12-12T16:35:00.000Z",
       "alu_serie": "fhfdhgfhdfgh",
+      "aul_conteudo": "Descreva sua aulinha 10:22",
+      "aul_qtdadeaulas": "2",
       "created_at": "2023-11-24T19:29:50.747Z",
       "updated_at": "",
       "id": 21
     },
     {
+      "usuario_id": 1,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-12T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:11",
+      "aul_qtdadeaulas": "1",
       "created_at": "2023-11-24T19:31:39.554Z",
       "updated_at": "",
       "id": 22
     },
     {
+      "usuario_id": 3,
       "pro_nome": "asdfasdfasdf asdfadsf",
       "com_nome": "adsfadfs",
-      "hor_datahora": "asdfasdf",
+      "hor_datahora": "2023-12-11T16:35:00.000Z",
       "alu_serie": "asdfasdfasd",
+      "aul_conteudo": "Descreva sua aulinha 10:44",
+      "aul_qtdadeaulas": "4",
       "created_at": "2023-11-24T19:32:54.062Z",
       "updated_at": "",
       "id": 23
     },
     {
+      "usuario_id": 4,
       "pro_nome": "asdfasdfasdf asdfasdfasdf",
       "com_nome": "asdfdsfasdf",
-      "hor_datahora": "asdfasdfasdf",
+      "hor_datahora": "2023-12-10T16:35:00.000Z",
       "alu_serie": "asdfasdfadsf",
+      "aul_conteudo": "Descreva sua aulinha 10:35",
+      "aul_qtdadeaulas": "1",
       "created_at": "2023-11-24T19:34:13.424Z",
       "updated_at": "",
       "id": 24
     },
     {
+      "usuario_id": 1,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-09T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:52",
+      "aul_qtdadeaulas": "4",
       "created_at": "2023-11-24T19:41:21.883Z",
       "updated_at": "",
       "id": 25
     },
     {
+      "usuario_id": 1,
       "pro_nome": "asdfasdfasdfa asdfasdfasf",
       "com_nome": "asdfasdfasdf",
-      "hor_datahora": "asdfasdfasdf",
+      "hor_datahora": "2023-12-08T16:35:00.000Z",
       "alu_serie": "asdfasdfasdfas",
+      "aul_conteudo": "Descreva sua aulinha 10:31",
+      "aul_qtdadeaulas": "4",
       "created_at": "2023-11-24T19:41:36.615Z",
       "updated_at": "",
       "id": 26
     },
     {
+      "usuario_id": 1,
       "pro_nome": "asdfasdfasdf asdfasdf",
       "com_nome": "fasdfasdfadsf",
-      "hor_datahora": "asdfasdfasf",
+      "hor_datahora": "2023-12-07T16:35:00.000Z",
       "alu_serie": "asdfadsfads",
+      "aul_conteudo": "Descreva sua aulinha 10:50",
+      "aul_qtdadeaulas": "3",
       "created_at": "2023-11-24T19:41:56.592Z",
       "updated_at": "",
       "id": 27
     },
     {
+      "usuario_id": 3,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-06T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:11",
+      "aul_qtdadeaulas": "1",
       "created_at": "2023-11-24T19:48:51.304Z",
       "updated_at": "",
       "id": 28
     },
     {
+      "usuario_id": 3,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-05T16:35:00.000Z",
       "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:31",
+      "aul_qtdadeaulas": "2",
       "created_at": "2023-11-24T19:48:51.943Z",
       "updated_at": "",
       "id": 29
     },
     {
+      "usuario_id": 3,
+      "pro_nome": "asdfasdf asdfasdf",
+      "com_nome": "asdfasdf",
+      "hor_datahora": "2023-12-04T16:35:00.000Z",
+      "alu_serie": "sdfasdfasdfsad",
+      "aul_conteudo": "Descreva sua aulinha 10:16",
+      "aul_qtdadeaulas": "1",
+      "created_at": "2023-12-01T12:09:28.627Z",
+      "updated_at": "",
+      "id": 49
+    },
+    {
+      "usuario_id": 1,
       "pro_nome": "Professor 1",
+      "com_nome": "Teste",
+      "hor_datahora": "2023-12-03T16:35:00.000Z",
+      "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aulinha 10:37",
+      "aul_qtdadeaulas": "1",
+      "created_at": "2023-12-01T12:37:02.702Z",
+      "updated_at": "",
+      "id": 50
+    },
+    {
+      "usuario_id": 2,
+      "pro_nome": "Germain Patty",
       "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "hor_datahora": "2023-12-02T16:35:00.000Z",
       "alu_serie": "x° INFO",
-      "created_at": "2023-11-24T19:49:35.510Z",
+      "aul_conteudo": "Descreva sua aulinha 10:46",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-01T12:40:02.570Z",
       "updated_at": "",
-      "id": 30
+      "id": 51
     },
     {
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria",
-      "hor_datahora": "Horário",
+      "usuario_id": 1,
+      "pro_nome": "Jerrold Jurscha  sdasd",
+      "com_nome": "10:36",
+      "hor_datahora": "2023-12-01T16:35:00.000Z",
       "alu_serie": "x° INFO",
-      "created_at": "2023-11-25T01:01:26.782Z",
+      "aul_conteudo": "Descreva sua aulinha 10:36",
+      "aul_qtdadeaulas": "1",
+      "created_at": "2023-12-01T13:36:10.962Z",
       "updated_at": "",
-      "id": 31
-    },
-    {
-      "pro_nome": "asdasdADS ASDASD",
-      "com_nome": "asdads",
-      "hor_datahora": "asDADSas",
-      "alu_serie": "asDASD",
-      "created_at": "2023-11-25T01:03:59.344Z",
-      "updated_at": "",
-      "id": 32
-    },
-    {
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria sdadsa",
-      "hor_datahora": "Horário",
-      "alu_serie": "x° INFO",
-      "created_at": "2023-11-25T01:04:13.494Z",
-      "updated_at": "",
-      "id": 33
-    },
-    {
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria",
-      "hor_datahora": "Horário",
-      "alu_serie": "x° INFO",
-      "created_at": "2023-11-25T01:04:50.168Z",
-      "updated_at": "",
-      "id": 34
-    },
-    {
-      "pro_nome": "asdfasdfasdf  asdfasdf",
-      "com_nome": "asdfadsfasdf",
-      "hor_datahora": "asdfasdf",
-      "alu_serie": "asdfasdfsadf",
-      "created_at": "2023-11-25T01:05:07.562Z",
-      "updated_at": "",
-      "id": 35
-    },
-    {
-      "pro_nome": "asdfadsfasd asdfasdf",
-      "com_nome": "sdfasdf",
-      "hor_datahora": "fasdfasdf",
-      "alu_serie": "asdasdfasdf",
-      "created_at": "2023-11-25T01:05:20.390Z",
-      "updated_at": "",
-      "id": 36
-    },
-    {
-      "pro_nome": "Professor 1hh",
-      "com_nome": "Matéria,mkjhbkjbkj",
-      "hor_datahora": "Horáriokhhhjkhjk",
-      "alu_serie": "x° INFOhjkhjkhjk",
-      "id": 37
-    },
-    {
-      "pro_nome": "dsfgfdsfgdsfg dsfg",
-      "com_nome": "dsfgdsfgdsfg",
-      "hor_datahora": "dgsdsfgdsfggdfs",
-      "alu_serie": "fdgsfdsg",
-      "id": 38
-    },
-    {
-      "pro_nome": "gsdfgsfdgfdsg dsfgdsfgdsfg",
-      "com_nome": "sdfgdsfgfds",
-      "hor_datahora": "sdfgdsfgfdsg",
-      "alu_serie": "sdfgdsfgfdsg",
-      "id": 39
-    },
-    {
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria",
-      "hor_datahora": "Horário",
-      "alu_serie": "x° INFO",
-      "created_at": "2023-11-28T12:01:50.275Z",
-      "updated_at": "",
-      "id": 40
-    },
-    {
-      "pro_nome": "sdfgsdfgsdfg sdfgsdfgsdfg",
-      "com_nome": "sdfgsdfgsdfg",
-      "hor_datahora": "sdfgsdfgsdfg",
-      "alu_serie": "sdfgsdfgsdfg",
-      "created_at": "2023-11-28T12:02:01.996Z",
-      "updated_at": "",
-      "id": 41
-    },
-    {
-      "pro_nome": "sdfgsdfgsdfg sdfgsdfgsdfg",
-      "com_nome": "sdfgsdfgsdfg",
-      "hor_datahora": "sdfgsdfgsdfg",
-      "alu_serie": "sdfgsdfgsdfg",
-      "created_at": "2023-11-28T12:02:02.194Z",
-      "updated_at": "",
-      "id": 42
-    },
-    {
-      "pro_nome": "sdfgsdfgsdfgdsf sdfg",
-      "com_nome": "dsfgsdfgsdfg",
-      "hor_datahora": "gsdfgsdfgdsfg",
-      "alu_serie": "sdfgsdfgsdfg",
-      "created_at": "2023-11-28T12:02:10.028Z",
-      "updated_at": "",
-      "id": 43
-    },
-    {
-      "pro_nome": "sdfgsdfgsdfg sdfgsdfg",
-      "com_nome": "sdfgsdfgsdfg",
-      "hor_datahora": "sdfgdsfgsdfgs",
-      "alu_serie": "dgsdfgsdfgdsfg",
-      "created_at": "2023-11-28T12:02:18.012Z",
-      "updated_at": "",
-      "id": 44
+      "id": 52
     }
   ],
   "aula_usuarios": [
     {
+      "aula_id": 1,
+      "usuario_id": 1
+    },
+    {
       "aul_id": 1,
-      "usu_id": 1
+      "usuario_id": 2
     },
     {
-      "aul_id": 2,
-      "usu_id": 2
+      "aula_id": 1,
+      "usuario_id": 3
     },
     {
-      "aul_id": 3,
-      "usu_id": 3
+      "aula_id": 2,
+      "usuario_id": 4
     },
     {
-      "aul_id": 4,
-      "usu_id": 4
+      "aula_id": 2,
+      "usuario_id": 5
     },
     {
-      "aul_id": 5,
-      "usu_id": 5
+      "aula_id": 3,
+      "usuario_id": 6
     },
     {
-      "aul_id": 6,
-      "usu_id": 6
+      "aula_id": 3,
+      "usuario_id": 7
     },
     {
-      "aul_id": 7,
-      "usu_id": 7
+      "aula_id": 3,
+      "usuario_id": 1
     },
     {
-      "aul_id": 8,
-      "usu_id": 8
+      "aula_id": 4,
+      "usuario_id": 2
     },
     {
-      "aul_id": 9,
-      "usu_id": 9
-    },
-    {
-      "aul_id": 10,
-      "usu_id": 10
+      "aula_id": 4,
+      "usuario_id": 3
     }
   ],
   "materias": [
