@@ -18,7 +18,7 @@
       "usu_nome": "Germain Patty",
       "usu_email": "germain.patty@google.com",
       "usu_nivel": "comum",
-      "usu_senha": "u1234",
+      "usu_senha": "U12345u!",
       "usu_emailconfirmado": true,
       "usu_celular": "(17)97734-1618",
       "usu_cpf": "548.893.559-90",
@@ -86,8 +86,8 @@
     },
     {
       "usu_nome": "Pedro Felipe",
-      "usu_email": "germain.patty13123@google.com",
-      "usu_senha": "u1234U!",
+      "usu_email": "a@g.com",
+      "usu_senha": "U12345u!",
       "usu_nivel": "comum",
       "usu_celular": "",
       "usu_cpf": "",
@@ -98,12 +98,6 @@
       "created_at": "2023-11-24T18:14:51.223Z",
       "updated_at": "",
       "id": 7
-    },
-    {
-      "usu_nome": "fdghdfghfdghdfgh sdfgsdfgd",
-      "usu_email": "germain.pattyff@google.com",
-      "usu_senha": "u1234U!",
-      "id": 8
     }
   ],
   "aulas": [
@@ -506,44 +500,117 @@
   ],
   "aula_usuarios": [
     {
+      "id": 1,
       "aula_id": 1,
       "usuario_id": 1
     },
     {
+      "id": 2,
       "aul_id": 1,
       "usuario_id": 2
     },
     {
+      "id": 3,
       "aula_id": 1,
       "usuario_id": 3
     },
     {
+      "id": 4,
       "aula_id": 2,
       "usuario_id": 4
     },
     {
+      "id": 5,
       "aula_id": 2,
       "usuario_id": 5
     },
     {
+      "id": 6,
       "aula_id": 3,
       "usuario_id": 6
     },
     {
+      "id": 7,
       "aula_id": 3,
       "usuario_id": 7
     },
     {
+      "id": 8,
       "aula_id": 3,
       "usuario_id": 1
     },
     {
+      "id": 9,
       "aula_id": 4,
       "usuario_id": 2
     },
     {
+      "id": 10,
       "aula_id": 4,
       "usuario_id": 3
+    },
+    {
+      "aula_id": 4,
+      "usuario_id": 2,
+      "created_at": "2023-12-01T18:55:09.100Z",
+      "updated_at": "",
+      "id": 11
+    },
+    {
+      "aula_id": 4,
+      "usuario_id": 2,
+      "created_at": "2023-12-01T18:55:11.118Z",
+      "updated_at": "",
+      "id": 12
+    },
+    {
+      "aula_id": 4,
+      "usuario_id": 2,
+      "created_at": "2023-12-01T18:55:11.128Z",
+      "updated_at": "",
+      "id": 13
+    },
+    {
+      "aula_id": 4,
+      "usuario_id": 2,
+      "created_at": "2023-12-01T18:55:11.657Z",
+      "updated_at": "",
+      "id": 14
+    },
+    {
+      "aula_id": 4,
+      "usuario_id": 2,
+      "created_at": "2023-12-01T18:55:11.998Z",
+      "updated_at": "",
+      "id": 15
+    },
+    {
+      "aula_id": 4,
+      "usuario_id": 2,
+      "created_at": "2023-12-01T18:55:12.744Z",
+      "updated_at": "",
+      "id": 16
+    },
+    {
+      "aula_id": 4,
+      "usuario_id": 2,
+      "created_at": "2023-12-01T18:56:51.645Z",
+      "updated_at": "",
+      "id": 17
+    },
+    {
+      "aula_id": 4,
+      "usuario_id": 2,
+      "created_at": "2023-12-01T18:56:51.779Z",
+      "updated_at": "",
+      "id": 18
+    },
+    {
+      "aula_id": 4,
+      "usuario_id": 7,
+      "created_at": "2023-12-01T19:08:46.634Z",
+      "updated_at": "",
+      "id": 19
     }
   ],
   "materias": [
