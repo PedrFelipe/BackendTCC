@@ -2,7 +2,7 @@
   "usuarios": [
     {
       "id": 1,
-      "usu_nome": "Jerrold Jurscha  sdasd",
+      "usu_nome": "Professor 1",
       "usu_email": "jerrold.jursch@uol.com.br",
       "usu_nivel": "admin",
       "usu_senha": "U12345u!",
@@ -98,6 +98,18 @@
       "created_at": "2023-11-24T18:14:51.223Z",
       "updated_at": "",
       "id": 7
+    },
+    {
+      "usu_nome": "lmaolmao lmao",
+      "usu_email": "lmao@gmail.com",
+      "usu_senha": "U12345u!",
+      "id": 8
+    },
+    {
+      "usu_nome": "Kaire Pele",
+      "usu_email": "kaire@google.com",
+      "usu_senha": "U12345u!",
+      "id": 9
     }
   ],
   "aulas": [
@@ -114,20 +126,8 @@
       "id": 1
     },
     {
-      "usuario_id": 1,
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria",
-      "hor_datahora": "2023-11-1T16:35:00.000Z",
-      "alu_serie": "x° INFO",
-      "aul_conteudo": "Descreva sua aulinha 11:11",
-      "aul_qtdadeaulas": "4",
-      "created_at": "2023-11-17T15:12:21.357Z",
-      "updated_at": "",
-      "id": 2
-    },
-    {
       "usuario_id": 3,
-      "pro_nome": "Professor 1",
+      "pro_nome": "Aluno 1",
       "com_nome": "Matéria",
       "hor_datahora": "2023-12-30T16:35:00.000Z",
       "alu_serie": "x° INFO",
@@ -136,54 +136,6 @@
       "created_at": "2023-11-21T21:53:02.776Z",
       "updated_at": "",
       "id": 3
-    },
-    {
-      "usuario_id": 1,
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria",
-      "hor_datahora": "2023-12-29T16:35:00.000Z",
-      "alu_serie": "x° INFO",
-      "aul_conteudo": "Descreva sua aulinha 10:06",
-      "aul_qtdadeaulas": "4",
-      "created_at": "2023-11-21T21:58:00.496Z",
-      "updated_at": "",
-      "id": 4
-    },
-    {
-      "usuario_id": 1,
-      "pro_nome": "asdfasfasfsa asdfasdf",
-      "com_nome": "asfsfsfsaf",
-      "hor_datahora": "2023-12-28T16:35:00.000Z",
-      "alu_serie": "asfasdfasd",
-      "aul_conteudo": "Descreva sua aulinha 10:09",
-      "aul_qtdadeaulas": "4",
-      "created_at": "2023-11-21T21:58:18.461Z",
-      "updated_at": "",
-      "id": 5
-    },
-    {
-      "usuario_id": 4,
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria",
-      "hor_datahora": "2023-12-27T16:35:00.000Z",
-      "alu_serie": "x° INFO",
-      "aul_conteudo": "Descreva sua aulinha 10:10",
-      "aul_qtdadeaulas": "4",
-      "created_at": "2023-11-23T13:34:43.680Z",
-      "updated_at": "",
-      "id": 6
-    },
-    {
-      "usuario_id": 3,
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria",
-      "hor_datahora": "2023-12-26T16:35:00.000Z",
-      "alu_serie": "x° INFO",
-      "aul_conteudo": "Descreva sua aulinha 10:20",
-      "aul_qtdadeaulas": "3",
-      "created_at": "2023-11-23T13:34:44.504Z",
-      "updated_at": "",
-      "id": 7
     },
     {
       "usuario_id": 3,
@@ -196,18 +148,6 @@
       "created_at": "2023-11-23T14:22:03.911Z",
       "updated_at": "",
       "id": 8
-    },
-    {
-      "usuario_id": 1,
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria",
-      "hor_datahora": "2023-12-24T16:35:00.000Z",
-      "alu_serie": "x° INFO",
-      "aul_conteudo": "Descreva sua aulinha 10:01",
-      "aul_qtdadeaulas": "2",
-      "created_at": "2023-11-23T14:22:37.628Z",
-      "updated_at": "",
-      "id": 9
     },
     {
       "usuario_id": 3,
@@ -282,18 +222,6 @@
       "id": 15
     },
     {
-      "usuario_id": 1,
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria 3333333333",
-      "hor_datahora": "2023-12-17T16:35:00.000Z",
-      "alu_serie": "x° INFO",
-      "aul_conteudo": "Descreva sua aulinha 10:25",
-      "aul_qtdadeaulas": "3",
-      "created_at": "2023-11-24T19:07:32.057Z",
-      "updated_at": "",
-      "id": 16
-    },
-    {
       "usuario_id": 4,
       "pro_nome": "Professor 1",
       "com_nome": "Matéria ABC",
@@ -316,18 +244,6 @@
       "created_at": "2023-11-24T19:24:42.930Z",
       "updated_at": "",
       "id": 18
-    },
-    {
-      "usuario_id": 1,
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria",
-      "hor_datahora": "2023-12-14T16:35:00.000Z",
-      "alu_serie": "x° INFO",
-      "aul_conteudo": "Descreva sua aulinha 10:33",
-      "aul_qtdadeaulas": "3",
-      "created_at": "2023-11-24T19:29:34.772Z",
-      "updated_at": "",
-      "id": 19
     },
     {
       "usuario_id": 3,
@@ -354,18 +270,6 @@
       "id": 21
     },
     {
-      "usuario_id": 1,
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria",
-      "hor_datahora": "2023-12-12T16:35:00.000Z",
-      "alu_serie": "x° INFO",
-      "aul_conteudo": "Descreva sua aulinha 10:11",
-      "aul_qtdadeaulas": "1",
-      "created_at": "2023-11-24T19:31:39.554Z",
-      "updated_at": "",
-      "id": 22
-    },
-    {
       "usuario_id": 3,
       "pro_nome": "asdfasdfasdf asdfadsf",
       "com_nome": "adsfadfs",
@@ -388,42 +292,6 @@
       "created_at": "2023-11-24T19:34:13.424Z",
       "updated_at": "",
       "id": 24
-    },
-    {
-      "usuario_id": 1,
-      "pro_nome": "Professor 1",
-      "com_nome": "Matéria",
-      "hor_datahora": "2023-12-09T16:35:00.000Z",
-      "alu_serie": "x° INFO",
-      "aul_conteudo": "Descreva sua aulinha 10:52",
-      "aul_qtdadeaulas": "4",
-      "created_at": "2023-11-24T19:41:21.883Z",
-      "updated_at": "",
-      "id": 25
-    },
-    {
-      "usuario_id": 1,
-      "pro_nome": "asdfasdfasdfa asdfasdfasf",
-      "com_nome": "asdfasdfasdf",
-      "hor_datahora": "2023-12-08T16:35:00.000Z",
-      "alu_serie": "asdfasdfasdfas",
-      "aul_conteudo": "Descreva sua aulinha 10:31",
-      "aul_qtdadeaulas": "4",
-      "created_at": "2023-11-24T19:41:36.615Z",
-      "updated_at": "",
-      "id": 26
-    },
-    {
-      "usuario_id": 1,
-      "pro_nome": "asdfasdfasdf asdfasdf",
-      "com_nome": "fasdfasdfadsf",
-      "hor_datahora": "2023-12-07T16:35:00.000Z",
-      "alu_serie": "asdfadsfads",
-      "aul_conteudo": "Descreva sua aulinha 10:50",
-      "aul_qtdadeaulas": "3",
-      "created_at": "2023-11-24T19:41:56.592Z",
-      "updated_at": "",
-      "id": 27
     },
     {
       "usuario_id": 3,
@@ -462,18 +330,6 @@
       "id": 49
     },
     {
-      "usuario_id": 1,
-      "pro_nome": "Professor 1",
-      "com_nome": "Teste",
-      "hor_datahora": "2023-12-03T16:35:00.000Z",
-      "alu_serie": "x° INFO",
-      "aul_conteudo": "Descreva sua aulinha 10:37",
-      "aul_qtdadeaulas": "1",
-      "created_at": "2023-12-01T12:37:02.702Z",
-      "updated_at": "",
-      "id": 50
-    },
-    {
       "usuario_id": 2,
       "pro_nome": "Germain Patty",
       "com_nome": "Matéria",
@@ -487,15 +343,303 @@
     },
     {
       "usuario_id": 1,
-      "pro_nome": "Jerrold Jurscha  sdasd",
-      "com_nome": "10:36",
-      "hor_datahora": "2023-12-01T16:35:00.000Z",
-      "alu_serie": "x° INFO",
-      "aul_conteudo": "Descreva sua aulinha 10:36",
-      "aul_qtdadeaulas": "1",
-      "created_at": "2023-12-01T13:36:10.962Z",
+      "pro_nome": "Professor 1",
+      "com_nome": "Portugues",
+      "hor_datahora": "2023-12-01T20:40:00.000Z",
+      "alu_serie": "3° INFO",
+      "aul_conteudo": "Aulinha muito boa",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-01T20:33:34.614Z",
       "updated_at": "",
-      "id": 52
+      "id": 53
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Matemática",
+      "hor_datahora": "2023-12-01T20:50:00.000Z",
+      "alu_serie": "3° ADM",
+      "aul_conteudo": "aulinha de teste",
+      "aul_qtdadeaulas": "3",
+      "created_at": "2023-12-01T20:48:09.754Z",
+      "updated_at": "",
+      "id": 54
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "2023-12-02T16:07:00.000Z",
+      "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aula",
+      "aul_qtdadeaulas": "1",
+      "created_at": "2023-12-02T17:06:26.924Z",
+      "updated_at": "",
+      "id": 55
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "PW2",
+      "hor_datahora": "2023-12-02T16:08:00.000Z",
+      "alu_serie": "x° INFO",
+      "aul_conteudo": "Descreva sua aula",
+      "aul_qtdadeaulas": "3",
+      "created_at": "2023-12-02T17:06:59.284Z",
+      "updated_at": "",
+      "id": 56
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "2023-12-06T00:57:00.000Z",
+      "alu_serie": "x° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "1",
+      "created_at": "2023-12-06T00:57:33.370Z",
+      "updated_at": "",
+      "id": 57
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Matematica",
+      "hor_datahora": "2023-12-06T20:11:00.000Z",
+      "alu_serie": "4° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-06T20:13:04.138Z",
+      "updated_at": "",
+      "id": 58
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "2023-12-06T21:12:00.000Z",
+      "alu_serie": "x° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "1",
+      "created_at": "2023-12-06T21:12:49.452Z",
+      "updated_at": "",
+      "id": 59
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Filosofia",
+      "hor_datahora": "2023-12-06T22:08:00.000Z",
+      "alu_serie": "1° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "3",
+      "created_at": "2023-12-06T22:08:32.149Z",
+      "updated_at": "",
+      "id": 60
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Filosofia",
+      "hor_datahora": "2023-12-06T22:08:00.000Z",
+      "alu_serie": "1° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "3",
+      "created_at": "2023-12-06T22:08:32.403Z",
+      "updated_at": "",
+      "id": 61
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Ed. Física",
+      "hor_datahora": "2023-12-06T22:13:00.000Z",
+      "alu_serie": "1° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-06T22:14:00.906Z",
+      "updated_at": "",
+      "id": 62
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Física",
+      "hor_datahora": "2023-12-06T22:25:00.000Z",
+      "alu_serie": "7° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-06T22:26:31.886Z",
+      "updated_at": "",
+      "id": 63
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Banco de Dados",
+      "hor_datahora": "2023-12-06T22:30:00.000Z",
+      "alu_serie": "5° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-06T22:30:50.341Z",
+      "updated_at": "",
+      "id": 64
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Lingua Portuguesa",
+      "hor_datahora": "2023-12-06T22:38:00.000Z",
+      "alu_serie": "4° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "3",
+      "created_at": "2023-12-06T22:38:42.192Z",
+      "updated_at": "",
+      "id": 65
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "2023-12-06T22:42:00.000Z",
+      "alu_serie": "1x INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-06T22:42:27.456Z",
+      "updated_at": "",
+      "id": 66
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Quimica",
+      "hor_datahora": "2023-12-06T22:48:00.000Z",
+      "alu_serie": "3° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-06T22:49:08.408Z",
+      "updated_at": "",
+      "id": 67
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Lingua Portuguesa",
+      "hor_datahora": "2023-12-06T22:56:00.000Z",
+      "alu_serie": "3° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-06T22:57:38.444Z",
+      "updated_at": "",
+      "id": 68
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Empreendedorismo",
+      "hor_datahora": "2023-12-06T23:07:00.000Z",
+      "alu_serie": "3° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-06T23:07:52.873Z",
+      "updated_at": "",
+      "id": 69
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Inglês",
+      "hor_datahora": "2023-12-06T23:15:00.000Z",
+      "alu_serie": "1° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "4",
+      "created_at": "2023-12-06T23:16:09.827Z",
+      "updated_at": "",
+      "id": 70
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Matéria",
+      "hor_datahora": "2023-12-06T23:24:00.000Z",
+      "alu_serie": "x° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-06T23:25:54.077Z",
+      "updated_at": "",
+      "id": 71
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Espanhol",
+      "hor_datahora": "2023-12-06T23:30:00.000Z",
+      "alu_serie": "2° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-06T23:31:05.376Z",
+      "updated_at": "",
+      "id": 72
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Física",
+      "hor_datahora": "2023-12-06T23:39:00.000Z",
+      "alu_serie": "2° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "3",
+      "created_at": "2023-12-06T23:40:08.632Z",
+      "updated_at": "",
+      "id": 73
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Biologia",
+      "hor_datahora": "2023-12-06T23:46:00.000Z",
+      "alu_serie": "2° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-06T23:47:00.022Z",
+      "updated_at": "",
+      "id": 74
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Filosofia",
+      "hor_datahora": "2023-12-07T00:06:00.000Z",
+      "alu_serie": "2° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-07T00:07:35.319Z",
+      "updated_at": "",
+      "id": 75
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Sociologia",
+      "hor_datahora": "2023-12-07T00:12:00.000Z",
+      "alu_serie": "3° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "4",
+      "created_at": "2023-12-07T00:13:27.807Z",
+      "updated_at": "",
+      "id": 76
+    },
+    {
+      "usuario_id": 1,
+      "pro_nome": "Professor 1",
+      "com_nome": "Biologia",
+      "hor_datahora": "2023-12-07T00:20:00.000Z",
+      "alu_serie": "3° INFO",
+      "aul_conteudo": "Horário:",
+      "aul_qtdadeaulas": "2",
+      "created_at": "2023-12-07T00:21:25.663Z",
+      "updated_at": "",
+      "id": 77
     }
   ],
   "aula_usuarios": [
@@ -611,6 +755,223 @@
       "created_at": "2023-12-01T19:08:46.634Z",
       "updated_at": "",
       "id": 19
+    },
+    {
+      "aula_id": 53,
+      "usuario_id": 5,
+      "created_at": "2023-12-01T20:35:22.746Z",
+      "updated_at": "",
+      "id": 20
+    },
+    {
+      "aula_id": 54,
+      "usuario_id": 5,
+      "created_at": "2023-12-01T20:49:35.486Z",
+      "updated_at": "",
+      "id": 21
+    },
+    {
+      "aula_id": 4,
+      "usuario_id": 5,
+      "created_at": "2023-12-05T12:07:55.415Z",
+      "updated_at": "",
+      "id": 22
+    },
+    {
+      "aula_id": 4,
+      "usuario_id": 5,
+      "created_at": "2023-12-05T12:07:55.417Z",
+      "updated_at": "",
+      "id": 23
+    },
+    {
+      "aula_id": 22,
+      "usuario_id": 2,
+      "created_at": "2023-12-06T16:07:06.655Z",
+      "updated_at": "",
+      "id": 24
+    },
+    {
+      "aula_id": 16,
+      "usuario_id": 2,
+      "created_at": "2023-12-06T16:10:28.038Z",
+      "updated_at": "",
+      "id": 25
+    },
+    {
+      "aula_id": 58,
+      "usuario_id": 2,
+      "created_at": "2023-12-06T20:13:48.677Z",
+      "updated_at": "",
+      "id": 26
+    },
+    {
+      "aula_id": 4,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T20:25:53.906Z",
+      "updated_at": "",
+      "id": 27
+    },
+    {
+      "aula_id": 58,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T21:13:32.008Z",
+      "updated_at": "",
+      "id": 28
+    },
+    {
+      "aula_id": 58,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T21:13:32.010Z",
+      "updated_at": "",
+      "id": 29
+    },
+    {
+      "aula_id": 57,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T21:44:17.957Z",
+      "updated_at": "",
+      "id": 30
+    },
+    {
+      "aula_id": 57,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T21:44:17.960Z",
+      "updated_at": "",
+      "id": 31
+    },
+    {
+      "aula_id": 61,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T22:09:05.839Z",
+      "updated_at": "",
+      "id": 32
+    },
+    {
+      "aula_id": 62,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T22:14:53.480Z",
+      "updated_at": "",
+      "id": 33
+    },
+    {
+      "aula_id": 63,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T22:27:10.587Z",
+      "updated_at": "",
+      "id": 34
+    },
+    {
+      "aula_id": 64,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T22:31:19.572Z",
+      "updated_at": "",
+      "id": 35
+    },
+    {
+      "aula_id": 65,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T22:39:17.152Z",
+      "updated_at": "",
+      "id": 36
+    },
+    {
+      "aula_id": 66,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T22:42:50.467Z",
+      "updated_at": "",
+      "id": 37
+    },
+    {
+      "aula_id": 67,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T22:50:18.177Z",
+      "updated_at": "",
+      "id": 38
+    },
+    {
+      "aula_id": 67,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T22:50:18.179Z",
+      "updated_at": "",
+      "id": 39
+    },
+    {
+      "aula_id": 68,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T22:58:25.096Z",
+      "updated_at": "",
+      "id": 40
+    },
+    {
+      "aula_id": 69,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T23:08:37.069Z",
+      "updated_at": "",
+      "id": 41
+    },
+    {
+      "aula_id": 70,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T23:16:59.513Z",
+      "updated_at": "",
+      "id": 42
+    },
+    {
+      "aula_id": 71,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T23:26:52.861Z",
+      "updated_at": "",
+      "id": 43
+    },
+    {
+      "aula_id": 72,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T23:31:42.725Z",
+      "updated_at": "",
+      "id": 44
+    },
+    {
+      "aula_id": 73,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T23:40:56.296Z",
+      "updated_at": "",
+      "id": 45
+    },
+    {
+      "aula_id": 73,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T23:40:56.297Z",
+      "updated_at": "",
+      "id": 46
+    },
+    {
+      "aula_id": 74,
+      "usuario_id": 8,
+      "created_at": "2023-12-06T23:47:56.006Z",
+      "updated_at": "",
+      "id": 47
+    },
+    {
+      "aula_id": 75,
+      "usuario_id": 8,
+      "created_at": "2023-12-07T00:08:44.035Z",
+      "updated_at": "",
+      "id": 48
+    },
+    {
+      "aula_id": 76,
+      "usuario_id": 8,
+      "created_at": "2023-12-07T00:14:40.134Z",
+      "updated_at": "",
+      "id": 49
+    },
+    {
+      "aula_id": 77,
+      "usuario_id": 8,
+      "created_at": "2023-12-07T00:22:04.266Z",
+      "updated_at": "",
+      "id": 50
     }
   ],
   "materias": [
